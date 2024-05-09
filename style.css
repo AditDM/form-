@@ -1,3 +1,6 @@
+
+/* ini adalah cssnya container digunakan untuk boxnya */
+
 .container {
     width: 50%;
     margin: 0 auto;
@@ -5,15 +8,18 @@
     border: 1px solid #ccc;
   }
   
+  /* kalauu ini adalah cssnya form-group digunakan untuk formnya */
   .form-group {
     margin-bottom: 15px;
   }
   
+  /* kalauu ini adalah cssnya label digunakan untuk labelnya */
   label {
     display: block;
     margin-bottom: 5px;
   }
   
+  /* kalauu ini adalah cssnya inputan tipe text, email, date, select, textarea, tel, dan file */
   input[type="text"],
   input[type="email"],
   input[type="date"],
@@ -28,6 +34,7 @@
     box-sizing: border-box;
   }
   
+  /* kalauu ini adalah cssnya button digunakan untuk buttonnya */
   button {
     display: block;
     background-color: #4CAF50;
@@ -39,14 +46,17 @@
     margin: 20px auto 0;
   }
   
+  /* kalauu ini adalah cssnya button:hover digunakan untuk buttonnya */
   button:hover {
     background-color: #45a049;
   }
   
+  /* kalauu ini adalah cssnya #output digunakan untuk tampilan outputnya */
   #output {
     margin-top: 20px;
   }
   
+  /* kalauu ini adalah cssnya img digunakan untuk gambar */
   img {
     max-width: 100%;
     height: auto;
